@@ -118,9 +118,7 @@ Posez simplement votre question !
                 "- Quels sont les délais de livraison ?\n"
                 "- Puis-je retourner un produit ?")
 
-    # Titre principal
-    # st.markdown('<p class="main-title">✨ Assistant Intelligent de la Boutique Enchantée</p>', unsafe_allow_html=True)
-
+    
     st.markdown("""
         <style>
         .main-title {
