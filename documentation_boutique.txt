@@ -1,54 +1,46 @@
-# Bienvenue à la Boutique Enchantée
+Nom de la boutique : Enchantée
+Adresse : 12 Rue des Artisans, Tunis 1002
+Téléphone : +216 71 234 567
+Email : contact@stylezen.tn
+Horaires du Travail: Lundi - Samedi, 9h00 - 20h00. Fermé le dimanche.
 
-## À Propos de Nous
-La Boutique Enchantée est une petite boutique créée en 2020 par Élise Martin. Nous sommes spécialisés dans les accessoires faits main, les bijoux vintage et les décorations uniques. Notre magasin physique est situé au 15 Rue des Artisans, 75001 Paris.
+Nos produits :
+- Vêtements femme : robes, tops, pantalons, manteaux
+- Vêtements homme : chemises, jeans, vestes, costumes
+- Accessoires : sacs, ceintures, écharpes, bijoux
 
-## Nos Horaires d'Ouverture
-- Lundi au Samedi : 10h00 - 19h00
-- Dimanche : Fermé
-- Nous sommes également ouverts le premier dimanche de chaque mois pour un marché artisanal spécial.
 
-## Nos Produits et Prix
+Prix indicatifs des Vêtements femme :
+- Robes : entre 80 DT et 180 DT
+- Tops : entre 35 DT et 70 DT
+- Pantalons : entre 60 DT et 120 DT
+- Manteaux : entre 120 DT et 250 DT
 
-### Collection Bijoux
-- Collier "Lune Mystique" : Collier en argent avec pierre de lune - 45€
-- Boucles d'oreilles "Feuille d'Automne" : Cuivre et émail - 32€
-- Bracelet "Océan" : Perles de verre bleues faites main - 28€
-- Bague "Étoile Filante" : Argent et zircons - 39€
+Prix indicatifs des Vêtements homme :
+- Chemises : entre 50 DT et 110 DT
+- Jeans : entre 70 DT et 140 DT
+- Vestes : entre 120 DT et 220 DT
+- Costumes : entre 250 DT et 500 DT
 
-### Collection Accessoires
-- Sac "Bohème" : Cuir végétal et tissu imprimé - 89€
-- Ceinture "Vintage 70s" : Cuir marron, boucle en laiton - 45€
-- Écharpe "Douceur d'Hiver" : Laine mohair, faite main - 55€
-- Portefeuille "Petit Trésor" : Cuir artisanal - 35€
+Prix indicatifs desAccessoires :
+- Sacs : entre 60 DT et 160 DT
+- Ceintures : entre 30 DT et 65 DT
+- Écharpes : entre 25 DT et 55 DT
+- Bijoux : entre 20 DT et 90 DT
 
-### Collection Décoration
-- Bougie "Forêt Enchantée" : Cire de soja, senteur pin et bois - 22€
-- Cadre photo "Rétro" : Bois recyclé, format 15x20cm - 18€
-- Mobile "Nuages" : Origami et fils de coton - 29€
-- Vase "Céramique Bleue" : Pièce unique, tournée main - 65€
+Politique de retour :
+Les articles peuvent être retournés dans les 14 jours suivant l'achat.
+L'article doit être non porté, avec étiquette et ticket de caisse.
+Les remboursements sont effectués sous 5 jours ouvrables.
 
-## Politique de Livraison
-- Livraison standard (3-5 jours) : 5,90€
-- Livraison express (24h) : 12,90€
-- Livraison gratuite pour toute commande supérieure à 80€
-- Nous livrons dans toute la France métropolitaine et en Belgique
+Livraison :
+Nous livrons dans toute la Tunisie.
+Délai de livraison : 2 à 5 jours ouvrables.
+Frais de livraison : 8 DT (gratuit pour toute commande supérieure à 150 DT).
 
-## Retours et Remboursements
-- Satisfait ou remboursé sous 14 jours
-- Les produits doivent être retournés dans leur état d'origine
-- Le remboursement est effectué sous 5 jours ouvrés après réception du retour
+Paiement :
+Nous acceptons : espèces, carte bancaire, virement, paiement à la livraison.
 
-## Questions Fréquentes
-
-Q: Proposez-vous des cartes cadeaux ?
-R: Oui ! Nous proposons des cartes cadeaux d'une valeur de 20€, 50€ ou 100€. Elles sont disponibles en magasin et bientôt en ligne.
-
-Q: Faites-vous des ateliers créatifs ?
-R: Oui, tous les samedis matin de 10h à 12h, nous organisons des ateliers de création de bijoux (25€ par personne). Réservation recommandée !
-
-Q: Acceptez-vous les paiements en plusieurs fois ?
-R: Pour le moment, nous n'acceptons pas les paiements en plusieurs fois.
-
-Q: Les produits sont-ils uniques ?
-R: La plupart de nos créations sont des pièces uniques ou en série très limitée. Si vous voyez un produit qui vous plaît, n'hésitez pas trop longtemps !
+Promotions :
+Soldes d'été : -30% sur toute la collection dès le 1er juillet.
+Programme fidélité : 1 point par dinar dépensé. 100 points = 10 DT de réduction.
