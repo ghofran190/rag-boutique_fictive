@@ -67,7 +67,7 @@ Python 3.10+
 venv — isolation des dépendances
 VS Code — IDE
 #### Données
-boutique.txt — source de connaissance externe (le "R" du RAG)
+documentation_boutique.txt — source de connaissance externe (le "R" du RAG)
 
 
 
@@ -76,4 +76,5 @@ boutique.txt — source de connaissance externe (le "R" du RAG)
 #### 👩‍💻 Auteur
 
 Ghofran
+
 
